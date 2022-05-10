@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>All you base are belong to US!</h1>, document.getElementById('root'));
