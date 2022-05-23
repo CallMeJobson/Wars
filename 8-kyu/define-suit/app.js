@@ -23,4 +23,6 @@ function defineSuit(card) {
       }
       
     }
-    return returnSuit
+    return returnSuit;
+}
+    
