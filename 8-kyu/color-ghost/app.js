@@ -4,4 +4,4 @@ var Ghost = function() {
     
     const _ghostColor =  colors[Math.floor(Math.random() * colors.length)]
     this.color = _ghostColor
-  };
+  };i
