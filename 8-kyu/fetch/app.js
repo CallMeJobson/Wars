@@ -6,3 +6,4 @@ fetch("https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita")
     .catch(err =>{
         console.log(`error ${err}`)
     })
+    
